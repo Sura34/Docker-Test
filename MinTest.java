@@ -5,7 +5,7 @@ public class MinTest {
 			int[] a = {5,1,7};
 			int res = Min.find_min(a);
 			if(res == 1){
-				System.out.print("Test successful\n");
+				System.out.print(" Final testing please just work\n");
 			}
 		} 
 
